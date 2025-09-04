@@ -1,9 +1,9 @@
 [
   {
-    "id": "none",
-    "username": "none",
-    "password": "none",
-    "expiresAt": "2025-12-31",
+    "id": "422099919b6b4599",
+    "username": "OWNER",
+    "password": "OWNER123",
+    "expiresAt": "2030-12-31",
     "allowOffline": true
   },
   {
